@@ -1,0 +1,62 @@
+Frequent Pairs and Counts:
+Bucket 46:
+Pair: ('B008AQ9494', 'B002G9U38W'), Count: 5
+Bucket 50:
+Pair: ('B008AQ9494', 'B00SM7KLS4'), Count: 5
+Bucket 73:
+Pair: ('B008AQ9494', 'B00ISVAAI0'), Count: 5
+Bucket 80:
+Pair: ('B008AQ9494', 'B00SM7KP6W'), Count: 5
+Bucket 93:
+Pair: ('B008AQ9494', 'B002G9U6BG'), Count: 5
+Bucket 11:
+Pair: ('B002G9U38W', 'B002G9UDOG'), Count: 5
+Bucket 10:
+Pair: ('B002G9U38W', 'B00SM7KLS4'), Count: 5
+Bucket 71:
+Pair: ('B002G9U38W', 'B00FXPRJWO'), Count: 5
+Bucket 91:
+Pair: ('B002G9U38W', 'B009YDCKNO'), Count: 5
+Bucket 44:
+Pair: ('B002G9U38W', 'B002G9U4PE'), Count: 5
+Bucket 53:
+Pair: ('B002G9U38W', 'B00ISVAAI0'), Count: 6
+Bucket 42:
+Pair: ('B002G9U38W', 'B00SM7KP6W'), Count: 5
+Pair: ('B00FXPRJWO', 'B009YDCKNO'), Count: 5
+Bucket 6:
+Pair: ('B002G9U38W', 'B002G9U6BG'), Count: 5
+Pair: ('B002G9U38W', 'B002G9UEFE'), Count: 5
+Bucket 31:
+Pair: ('B002G9U38W', 'B0041T42LY'), Count: 5
+Bucket 38:
+Pair: ('B002G9U38W', 'B005I33EA2'), Count: 5
+Pair: ('B002G9U4PE', 'B00ISVAAI0'), Count: 5
+Bucket 86:
+Pair: ('B002G9UDOG', 'B00ISVAAI0'), Count: 5
+Bucket 9:
+Pair: ('B00SM7KLS4', 'B00ISVAAI0'), Count: 5
+Bucket 52:
+Pair: ('B00SM7KLS4', 'B00SM7KP6W'), Count: 5
+Bucket 40:
+Pair: ('B00SM7KLS4', 'B002G9U6BG'), Count: 5
+Pair: ('B009YDCKNO', 'B00ISVAAI0'), Count: 5
+Pair: ('B00ISVAAI0', 'B0041T42LY'), Count: 5
+Bucket 30:
+Pair: ('B00FXPRJWO', 'B00ISVAAI0'), Count: 5
+Bucket 36:
+Pair: ('B00ISVAAI0', 'B00SM7KP6W'), Count: 5
+Bucket 12:
+Pair: ('B00ISVAAI0', 'B002G9U6BG'), Count: 5
+Bucket 24:
+Pair: ('B00ISVAAI0', 'B002G9UEFE'), Count: 5
+Bucket 76:
+Pair: ('B00ISVAAI0', 'B005I33EA2'), Count: 5
+Bucket 22:
+Pair: ('B00SM7KP6W', 'B002G9U6BG'), Count: 5
+Bucket 75:
+Pair: ('B0041T42LY', 'B002G9UEFE'), Count: 5
+Bucket 51:
+Pair: ('B0041T42LY', 'B005I33EA2'), Count: 5
+Bucket 26:
+Pair: ('B002G9UEFE', 'B005I33EA2'), Count: 5
